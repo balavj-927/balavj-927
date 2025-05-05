@@ -55,7 +55,7 @@ Aspiring Software Engineer with a strong computer science background and hands-o
 ## 🛠️ Projects
 
 ### GeoFit Wear
-- Developed a MERN-based e-commerce platform with real-time delivery tracking
+- Developed a MERN-based e-commerce platform with real-time location Integration
 - Implemented real-time chat system connecting users, delivery personnel, and admins
 - Technologies: MongoDB, Express.js, React.js, Node.js
 
