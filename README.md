@@ -28,7 +28,7 @@ Aspiring Software Engineer with a strong computer science background and hands-o
 
 - 🎓 **Education**: B.E. in Computer Science, National Engineering College, Kovilpatti
 - 🏫 **School**: Rose Mary Matriculation Higher Secondary School, Tirunelveli (HSC - 91.6% | SSLC - 84.2%)
-- 🌱 **Currently Learning**: Advanced Cloud Computing and Cybersecurity techniques
+- 🌱 **Currently Learning**: Java Full-stack Development
 - ⚡ **Fun Fact**: Solved 200+ programs on LeetCode, 2200+ on Skillrack, and earned 8000+ Hackos on HackerRank!
 
 ## 💻 Skills & Technologies
