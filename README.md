@@ -97,7 +97,7 @@ Aspiring Software Engineer with a strong computer science background and hands-o
 ## 🏆 Achievements
 
 - Completed Ethical Hacking & Penetration Testing training through the government's Cyber Gyan Project
-- Solved 250+ Programs on LeetCode, 2300+ Programs on Skillrack, 8000+ Hackos on HackerRank
+- Solved 400+ Programs on LeetCode, 2500+ Programs on Skillrack, 10000+ Hackos on HackerRank
 - Presented creative ideas through Paper Presentation at Thiagarajar College of Engineering
 - Reached Finalist Position in Project Presentation at Shri Krishna College of Engineering
 - Achieved Top 10 Finish in National-level Coding Challenge at SRM University
