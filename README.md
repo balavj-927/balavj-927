@@ -24,7 +24,7 @@
 
 ## 🚀 About Me
 
-Aspiring Software Engineer with a strong computer science background and hands-on experience in full-stack development, embedded systems, and cybersecurity. Currently pursuing B.E. in Computer Science with 8.43 CGPA (up to 5th semester), actively seeking challenging opportunities to contribute, grow, and add value to innovative teams.
+Aspiring Software Engineer with a strong computer science background and hands-on experience in full-stack development, embedded systems, and cybersecurity. Currently pursuing B.E. in Computer Science with 8.4 CGPA (up to 5th semester), actively seeking challenging opportunities to contribute, grow, and add value to innovative teams.
 
 - 🎓 **Education**: B.E. in Computer Science, National Engineering College, Kovilpatti
 - 🏫 **School**: Rose Mary Matriculation Higher Secondary School, Tirunelveli (HSC - 91.6% | SSLC - 84.2%)
